@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameFramework2D">
+      <UniqueIdentifier>{34c6d3e2-8c3d-4a4d-802a-01929656a111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\manager">
+      <UniqueIdentifier>{3027f7a6-654b-452d-8137-225a42957ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy">
+      <UniqueIdentifier>{a3dbe0b1-3466-4b02-8180-b3c10a4827ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\image">
+      <UniqueIdentifier>{5e1030be-d5dc-4fec-848c-de3207c9c559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\utils">
+      <UniqueIdentifier>{e391e487-bb6d-4941-bbf2-1b956af45fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\progressBar">
+      <UniqueIdentifier>{b540b522-40fe-4ae2-80b3-18a5a71eb34f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\timer">
+      <UniqueIdentifier>{d999593e-cacc-411b-abb5-2d56c0b53db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\txtData">
+      <UniqueIdentifier>{a83c18d4-461d-4487-868b-71d65b457ae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\player">
+      <UniqueIdentifier>{154b8eed-bde5-4b07-ac18-8c11f9d90f26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\bullet">
+      <UniqueIdentifier>{e4da5a38-7cf6-4c08-ba00-4003dea5d32f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\enemy">
+      <UniqueIdentifier>{414aa4a1-3822-4241-8dd4-60a4f49c8dd1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="1610기 API.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameStudy.h">
+      <Filter>gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>GameFramework2D</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>GameFramework2D\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>GameFramework2D\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>GameFramework2D\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="txtData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>gameStudy\player</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.h">
+      <Filter>gameStudy\bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>gameStudy\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="minion.h">
+      <Filter>gameStudy\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyManager.h">
+      <Filter>gameStudy\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="progresBar.h">
+      <Filter>GameFramework2D\progressBar</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1610기 API.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStudy.cpp">
+      <Filter>gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>GameFramework2D</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>GameFramework2D\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>GameFramework2D\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>GameFramework2D\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="txtData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>gameStudy\player</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.cpp">
+      <Filter>gameStudy\bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>gameStudy\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="minion.cpp">
+      <Filter>gameStudy\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyManager.cpp">
+      <Filter>gameStudy\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="progresBar.cpp">
+      <Filter>GameFramework2D\progressBar</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

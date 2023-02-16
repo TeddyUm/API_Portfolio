@@ -1,0 +1,85 @@
+﻿  stdafx.cpp
+  1610기 API.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\1610기 API.cpp(103,16): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  bullets.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(64,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(64,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(77,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(77,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(137,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(137,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(152,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(152,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(217,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(217,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(231,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(235,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(235,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(300,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(300,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(317,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\bullets.cpp(317,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  enemy.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemy.cpp(88,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  enemyManager.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(93,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(93,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(128,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(128,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(255,28): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(254,28): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(253,59): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(253,44): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(252,15): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(251,26): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(270,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(269,15): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(268,26): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(284,15): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\enemyManager.cpp(283,26): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  gameNode.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\gameNode.cpp(70,6): warning C4101: 'hdc': unreferenced local variable
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\gameNode.cpp(71,14): warning C4101: 'ps': unreferenced local variable
+  gameStudy.cpp
+  image.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(164,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(220,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(277,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(334,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(500,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(500,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(508,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(508,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(513,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\image.cpp(513,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  imageManager.cpp
+  keyManager.cpp
+  minion.cpp
+  player.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(36,27): warning C4244: '-=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(37,28): warning C4244: '-=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(43,27): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(44,28): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(50,26): warning C4244: '-=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(51,29): warning C4244: '-=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(55,26): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(56,29): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(63,58): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\player.cpp(63,39): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  progresBar.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\progresBar.cpp(21,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\progresBar.cpp(21,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\progresBar.cpp(23,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\progresBar.cpp(23,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\progresBar.cpp(42,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  timeManager.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\timeManager.cpp(52,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\timeManager.cpp(56,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\timeManager.cpp(60,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  timer.cpp
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\timer.cpp(37,15): warning C4244: '=': conversion from 'float' to 'unsigned long', possible loss of data
+  txtData.cpp
+  utils.cpp
+  Generating Code...
+D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\1610기 API\txtData.cpp(52): warning C4172: returning address of local variable or temporary: str
+  1610기 API.vcxproj -> D:\Study\Programming\Study_PortFolio\WinAPI_1_DongBang\x64\Debug\1610기 API.exe
